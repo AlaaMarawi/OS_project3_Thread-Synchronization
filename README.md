@@ -22,6 +22,6 @@
   in another terminal :</br>
   >> ./xyztotlizer </br>
   >>(enter read count)(3/6/9..)</br>
-  +screenshots in the<a href= "https://github.com/AlaaMarawi/OS_project3_Thread-Synchronization/blob/master/Rapor.pdf"> report</a>.
+  +screenshots in the<a href= "https://github.com/AlaaMarawi/OS_project3_Thread-Synchronization/blob/master/AlaaMarawiRapor.pdf"> report</a>.
 </i>
 </br>
